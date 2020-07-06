@@ -1,0 +1,10 @@
+
+Need to download a source code
+
+-Then add a npm in project
+Command is “npm install”
+
+-Then need to run a project
+Command is “React-native run-ios”
+
+if code didn’t working in your laptop you have need all latest version of the xcode & npm and node setup in your machine.
